@@ -1,0 +1,39 @@
+body {
+  background-image:
+  url("../img/river.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#peaches {
+  margin-top: 35px;
+}
+
+#title{
+  font-size: 20px; color:white;
+  font-family: 'Gravitas One', cursive;
+}
+
+#navbar{
+  position: absolute;
+  margin-left: 850px;
+  font-family: sans-serif;
+  color:green;
+}
+
+#content{
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  width: 510px;
+  margin: 25px auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
